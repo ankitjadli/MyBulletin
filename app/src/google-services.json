@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "72734379417",
+    "firebase_url": "https://minorbvicam-default-rtdb.firebaseio.com",
+    "project_id": "minorbvicam",
+    "storage_bucket": "minorbvicam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72734379417:android:6770c3ebab702d2c471708",
+        "android_client_info": {
+          "package_name": "com.example.newz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72734379417-rgag43th39gqo1e9d4osvb23ir0ja3g8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBi7Cn8z66bwlIazdLPyCk1hR9Jfm03NI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72734379417-rgag43th39gqo1e9d4osvb23ir0ja3g8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
