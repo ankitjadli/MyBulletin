@@ -1,6 +1,6 @@
 # MyBulletin
 
-Based on Firebase Realtime Database and Firebase Authentication.
+Provide Realtime customized news according to user's selections ,Based on Firebase Realtime Database and Firebase Authentication.
 
 
 ## UI
